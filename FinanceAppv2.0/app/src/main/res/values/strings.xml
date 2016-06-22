@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinanceApp v2.0</string>
+    <string name="askprice">%1$.1f °C</string>
+</resources>
